@@ -5,4 +5,4 @@ Entrevista Personal:
 https://docs.google.com/forms/d/e/1FAIpQLSeSGM7ZM2kNvNYMiDKLB1jmLr_-q4f1uDdvT9kZbJAfJuj5oQ/viewform?usp=sf_link
 
 Pantallas:
-https://mockitt.wondershare.com/proto/hTBXLdTGrt7u1o1ivfTJ8N/sharing?view_mode=read_only #AlmacenMary-分享  
+https://mockitt.wondershare.com/proto/hTBXLdTGrt7u1o1ivfTJ8N/sharing?view_mode=read_only
