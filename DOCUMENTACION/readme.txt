@@ -6,3 +6,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSeSGM7ZM2kNvNYMiDKLB1jmLr_-q4f1uDdvT9kZ
 
 Pantallas:
 https://mockitt.wondershare.com/proto/hTBXLdTGrt7u1o1ivfTJ8N/sharing?view_mode=read_only
+
+Página:
+https://almacenmary.000webhostapp.com
