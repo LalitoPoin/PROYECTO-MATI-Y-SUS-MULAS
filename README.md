@@ -1,15 +1,9 @@
 # Proximas fechas importantes 
 
-                 MR - TIPOS
-                 CARGAR DATOS 
-                 Fijarse los null en la DBA
-                 Casos de prueba sprint 2
-                 Probarlos 
-                 Casos de prueba sprint 3
-                 Hostear 
-                 Login 
-                 Pagina home 
-
+                 Configuracion del apartado administrador 
+                 Pagina de productos (Visual) 
+                 
+                 
 # PROYECTO-MATI-Y-SUS-MULAS
 
 INTEGRANTES: 
