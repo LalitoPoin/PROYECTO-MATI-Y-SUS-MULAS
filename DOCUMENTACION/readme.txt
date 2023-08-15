@@ -12,3 +12,6 @@ https://almacenmary.000webhostapp.com
 
 Presupuesto: 
 https://www.canva.com/design/DAFroCgsVP8/sk4gHSTgnMRb1sZDZh8xWw/edit?utm_content=DAFroCgsVP8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Carpeta funcional:
+https://docs.google.com/document/d/1eTY6ZHnqi7EMCElUiw4sAEaHw98H9Agz/edit?usp=drivesdk&ouid=105218842349082485953&rtpof=true&sd=true
