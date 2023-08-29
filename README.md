@@ -1,7 +1,6 @@
 # Proximas fechas importantes 
 
-                 Configuracion del apartado administrador 
-                 Pagina de productos (Visual) 
+                  
                  
                  
 # PROYECTO-MATI-Y-SUS-MULAS
