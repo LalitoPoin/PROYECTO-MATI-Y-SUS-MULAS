@@ -1,9 +1,9 @@
 # Proximas fechas importantes 
-  Cambios BD
-  Retoques facturación y productos (visual y funcional)
-  Pantalla de impresión y stock (visual)
-  Plan de testing facturación y productos
-  Implementación plan de testing de facturaciónn
+  -Cambios BD
+  -Retoques facturación y productos (visual y funcional)
+  -Pantalla de impresión y stock (visual)
+  -Plan de testing facturación y productos
+  -Implementación plan de testing de facturación
 
                  
 # PROYECTO-MATI-Y-SUS-MULAS
