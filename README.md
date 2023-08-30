@@ -3,7 +3,7 @@
   Retoques facturación y productos (visual y funcional)
   Pantalla de impresión y stock (visual)
   Plan de testing facturación y productos
-  Implementación plan de testing de facturación
+  Implementación plan de testing de facturaciónn
 
                  
 # PROYECTO-MATI-Y-SUS-MULAS
