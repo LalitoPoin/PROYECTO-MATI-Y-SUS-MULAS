@@ -2,7 +2,7 @@
   -Cambios BD
   -Retoques facturación y productos (visual y funcional)
   -Pantalla de impresión y stock (visual)
-  -Plan de testing facturación y apartado del admin
+  -Plan de testeo y testeo del apartado del admin
 
 
                  
